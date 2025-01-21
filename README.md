@@ -1,4 +1,4 @@
-## Free Fire Website Documentation
+## Free Fire Documentation
 
 ### 1. Introduction
 The Free Fire Website is an informative platform designed to engage and inform users about the popular battle royale game, Free Fire. This documentation outlines the structure, design, and functionality used in creating the website, leveraging HTML, CSS, and JavaScript.
